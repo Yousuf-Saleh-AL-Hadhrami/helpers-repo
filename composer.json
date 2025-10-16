@@ -1,0 +1,21 @@
+{
+    "name": "yousuf-alhadhrami/helpers",
+    "description": "This package is just for learning",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YousufAlhadhrami\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yousuf AL Hadhrami",
+            "email": "izkiboy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.2"
+    }
+}
